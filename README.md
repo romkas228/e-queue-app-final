@@ -1,1 +1,8 @@
-# e-queue-app-final
+
+# Електронна Черга
+
+## Запуск локально
+
+```bash
+npm install
+npm start
